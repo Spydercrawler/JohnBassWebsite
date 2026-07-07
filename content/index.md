@@ -36,15 +36,3 @@ If you have further interest in my research, you may view the selected publicati
 \[5\] John M. Bass, Manuel Ballester, Susana M. Fernández, Aggelos K. Katsaggelos, Emilio Márquez, and Florian Willomitzer, "[Increasing the Precision of Transmission Spectroscopy by Optimization of Thin Film Surface Shapes.](https://doi.org/10.1364/FIO.2024.JTu4A.42)," Frontiers in Optics + Laser Science  (2024)
 
 \[6\] John M. Bass et al., "[Towards Fast and High-Resolution Adaptive Optics using Phase Light Modulators.](https://3dim.optics.arizona.edu/pdfs/JBass_ODF_2024_AO.pdf)," Proceedings of the 14th International Conference on Optics-Photonics Design and Fabrication (2024)
-
-
-
-
-
-
-
-
-
-John Bass, Muralidhar Madabhushi Balaji, Jeffery Y. Chen, Gregory Nero, Ignacio Rojas, Avion Lowery, Keaton Shurilla, Masahiko Yasui, Youngsik Kim, Yushi Kaneda, Ivan B. Djordjevic, Yuzuru Takashima, Florian Willomitzer
-
-Optica Open Preprint, 2026.
